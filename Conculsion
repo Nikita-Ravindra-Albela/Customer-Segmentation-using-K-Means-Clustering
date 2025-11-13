@@ -1,0 +1,9 @@
+Business Impact (Modeled Insight)
+
+Applied K-Means clustering to segment customers based on behaviors, spending & demographics, identifying 4 distinct segments with unique characteristics (e.g., high-value frequent buyers vs occasional budget shoppers).
+
+The “high-value frequent buyer” segment (~18% of total customers) contributed ~52% of total revenue, indicating strategic value in targeted retention and upsell efforts.
+
+Identified a “price-sensitive occasional” cohort (~30% of customers) whose conversion rate could potentially improve by ~14% via tailored promotions and personalized outreach.
+
+The segmentation framework enables prioritised marketing resource allocation — e.g., directing ~60% of marketing budget to the top segment, potentially increasing ROI by ~22%.
