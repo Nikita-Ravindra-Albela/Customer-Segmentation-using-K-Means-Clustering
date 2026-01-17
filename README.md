@@ -10,7 +10,7 @@ Understand different customer types.
 Design targeted marketing campaigns.
 
 Improve customer retention and sales strategies.
-
+ 
 Dataset
 
 File Used: online_retail_II.xlsx
