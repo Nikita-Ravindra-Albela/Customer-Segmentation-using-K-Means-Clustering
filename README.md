@@ -8,7 +8,7 @@ The analysis enables businesses to:
 Understand different customer types.
 
 Design targeted marketing campaigns.
-
+ 
 Improve customer retention and sales strategies.
  
 Dataset
